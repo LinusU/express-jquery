@@ -1,0 +1,11 @@
+{
+  "name": "express-jquery",
+  "description": "Express middleware for easily embedding jQuery",
+  "version": "1.8.2",
+  "homepage": "https://github.com/LinusU/express-jquery",
+  "author": "Linus Unnebäck <linus.unneback@lanemarknad.se>",
+  "main": "express-jquery.js",
+  "directories": { },
+  "engines": { "node": "*" },
+  "dependencies": { }
+}
