@@ -7,7 +7,7 @@
     }
     return function(req, res, next) {
       if (req.url === url) {
-        return res.sendfile(__dirname + '/vendor/jquery-1.8.2.min.js');
+        return res.sendfile(__dirname + '/vendor/jquery-1.8.3.min.js');
       } else {
         return next();
       }
